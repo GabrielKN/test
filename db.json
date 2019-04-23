@@ -7,20 +7,6 @@
         "latitude": -22.560084,
         "longitude": 17.072984,
         "img_path": "https://www.designyourway.net/drb/ths/diverse/restaurantlogos/Yellow.jpg",
-        "bg_path": "https://i.pinimg.com/originals/e5/5e/fb/e55efbbf3e48670102a20a9ef25a7b0e.jpg",
-        "phone_number": "0614585896",
-        "rating": 4.9,
-        "cuisines": ["Fast Food", "Bar", "Grill"],
-        "number_of_reviews": 25,
-        "operating_hours": {
-            "Monday": "Closed",
-            "Tuesday": "10h00 - 11h00",
-            "Wednesday": "10h00 - 11h00",
-            "Thursday": "10h00 - 11h00",
-            "Friday": "10h00 - 11h00",
-            "Saturday": "10h00 - 11h00",
-            "Sunday": "10h00 - 11h00"
-        },
-        "popularity": 10
+        "bg_path": "https://i.pinimg.com/originals/e5/5e/fb/e55efbbf3e48670102a20a9ef25a7b0e.jpg"
     }
 ]
