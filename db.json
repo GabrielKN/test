@@ -3,10 +3,5 @@
         "id": 75896,
         "name": "Yellow Restaurant",
         "description": "We offer the best meals in town",
-        "address": "Berg Street, 34, Kleine Kuppe",
-        "latitude": -22.560084,
-        "longitude": 17.072984,
-        "img_path": "https://www.designyourway.net/drb/ths/diverse/restaurantlogos/Yellow.jpg",
-        "bg_path": "https://i.pinimg.com/originals/e5/5e/fb/e55efbbf3e48670102a20a9ef25a7b0e.jpg"
-    }
+        "address": "Berg Street, 34, Kleine Kuppe"
 ]
